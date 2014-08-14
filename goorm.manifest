@@ -1,0 +1,1 @@
+{"type":"nodejs","detailedtype":"Express Project","author":"nys3909","name":"web_application_test","description":"","date":"2014/7/17 22:35:36","plugins":{"goorm.plugin.nodejs":{"plugin.nodejs.main":"app","plugin.nodejs.source_path":"./","plugin.nodejs.debug_option":""}}}

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/goorm_core/!svn/ver/1577/trunk/plugins/goorm.plugin.nodejs_examples/template/bingo/views
+END
+layout.jade
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/goorm_core/!svn/ver/1577/trunk/plugins/goorm.plugin.nodejs_examples/template/bingo/views/layout.jade
+END
+main.jade
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/goorm_core/!svn/ver/1577/trunk/plugins/goorm.plugin.nodejs_examples/template/bingo/views/main.jade
+END
+index.jade
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/goorm_core/!svn/ver/1577/trunk/plugins/goorm.plugin.nodejs_examples/template/bingo/views/index.jade
+END
